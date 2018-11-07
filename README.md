@@ -28,7 +28,10 @@ pip3 install -r requirements.txt
 - Press 3: To exit from the program.
 
 # Tips to stay secure
-
+- Change your passwords every few months
+- Use differnt passwords for different accounts
+- Use password manager to generate random passwords
+- Start using multi factor authentication 
 
 # Questions?
 
